@@ -7,6 +7,8 @@ Open `index.html` in a browser (works on Android phones and desktop). To host it
 
 ## Features
 - 1v1, 2v2 and 3v3 battles with tag switches
+- **VS Online**: 1v1 against another player — Quick match, or Create room / Join room with a 4-letter code (WebRTC via PeerJS, no game server needed)
+- **Fullscreen** button on the home and pause menus (remembered), and add-to-home-screen support so the game opens without the browser bar
 - 17 fighters (7 SSS class), each with unique combos, heavies, skills, counters and ultimates
 - Aura Awakening power-up, ki charging, air combos, vanishing step
 - Three arenas: Lantern Court, Bamboo Shrine, Molten Forge
